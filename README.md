@@ -1,12 +1,9 @@
 <div align="center">
 
-# 🛍️ Flea Hallym
+<img src="docs/banner.png" alt="Flea Hallym - 한림대 재학생을 위한 안전한 교내 중고거래 웹앱" />
 
-**한림대 재학생을 위한 안전한 교내 중고거래 웹앱**
-
-CCTV가 있고 사람이 많은 교내 **세이프존**에서만 거래하도록 해서 대면 직거래의 위험을 줄입니다.
-
-🥇 **한림대학교 오픈소스 웹 해커톤 금상**
+<br />
+<br />
 
 ![Next.js](https://img.shields.io/badge/Next.js_13-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -14,11 +11,6 @@ CCTV가 있고 사람이 많은 교내 **세이프존**에서만 거래하도록
 ![Sendbird](https://img.shields.io/badge/Sendbird-742DDD?style=flat-square&logo=sendbird&logoColor=white)
 ![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat-square)
 ![Emotion](https://img.shields.io/badge/Emotion-DB7093?style=flat-square)
-
-<img src="docs/screenshots/01-home.png" width="200" alt="홈 상품 목록" />
-<img src="docs/screenshots/02-product-detail.png" width="200" alt="상품 상세" />
-<img src="docs/screenshots/04-price-detail.png" width="200" alt="시세 차트" />
-<img src="docs/screenshots/06-chat-detail.png" width="200" alt="채팅" />
 
 </div>
 
