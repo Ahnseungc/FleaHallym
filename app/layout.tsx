@@ -38,7 +38,7 @@ export default function RootLayout({
               color: "#171717",
               fontSize: "20px",
               fontWeight: "normal",
-              fontFamily: "Gmarket Sans",
+              fontFamily: "Gmarket",
             }}
           >
             Flea Hallym

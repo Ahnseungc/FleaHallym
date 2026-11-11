@@ -166,12 +166,12 @@ const ItemAddModal = () => {
                 >
                   <Col
                     sm
-                    style={{ fontFamily: "GMarket-Regular", marginTop: "5vh" }}
+                    style={{ fontFamily: "Gmarket", marginTop: "5vh" }}
                   >
                     제목
                     <Form.Control
                       type="id"
-                      style={{ fontFamily: "GMarket-Regular" }}
+                      style={{ fontFamily: "Gmarket" }}
                       placeholder="제목"
                       onChange={(event) => setTitle(event.target.value)}
                       value={title}
@@ -180,7 +180,7 @@ const ItemAddModal = () => {
                   <Col sm style={{ marginTop: "5vh" }}>
                     <Form.Control
                       type="number"
-                      style={{ fontFamily: "GMarket-Regular" }}
+                      style={{ fontFamily: "Gmarket" }}
                       placeholder="₩ 가격을 입력해주세요"
                       onChange={(event) => setPrice(event.target.value)}
                     />
@@ -188,7 +188,7 @@ const ItemAddModal = () => {
 
                   <Col
                     sm
-                    style={{ fontFamily: "GMarket-Regular", marginTop: "5vh" }}
+                    style={{ fontFamily: "Gmarket", marginTop: "5vh" }}
                   >
                     자세한 설명
                     <textarea
@@ -200,7 +200,7 @@ const ItemAddModal = () => {
                   </Col>
                   <Col
                     sm
-                    style={{ fontFamily: "GMarket-Regular", marginTop: "5vh" }}
+                    style={{ fontFamily: "Gmarket", marginTop: "5vh" }}
                   >
                     SAFE ZONE
                     <div

@@ -27,7 +27,7 @@ export const ProductName = styled.div`
   color: #171717;
 
   /* text-2xl/leading-8/font-bold */
-  font-family: Pretendard Variable;
+  font-family: "Pretendard Variable", Pretendard, sans-serif;
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
@@ -42,7 +42,7 @@ export const HopePlaceTitle = styled.div`
   color: #171717;
 
   /* text-2xl/leading-8/font-bold */
-  font-family: Pretendard Variable;
+  font-family: "Pretendard Variable", Pretendard, sans-serif;
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
